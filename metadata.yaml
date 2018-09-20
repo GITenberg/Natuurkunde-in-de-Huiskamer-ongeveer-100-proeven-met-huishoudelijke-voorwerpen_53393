@@ -5,6 +5,9 @@ contributor:
     agent_name: Cocheret, D. H.
     gutenberg_agent_id: '47356'
     url: http://www.gutenberg.org/2009/agents/47356
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tit, Tom
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '47355'
     url: http://www.gutenberg.org/2009/agents/47355
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53393#Natuurkunde-in-de-Huiskamer-ongeveer-100-proeven-met-huishoudelijke-voorwerpen
 gutenberg_issued: '2016-10-28'
 gutenberg_type: Text
 identifiers:
