@@ -1,0 +1,33 @@
+_repo: Natuurkunde-in-de-Huiskamer-ongeveer-100-proeven-met-huishoudelijke-voorwerpen_53393
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Cocheret, D. H.
+    gutenberg_agent_id: '47356'
+    url: http://www.gutenberg.org/2009/agents/47356
+creator:
+  author:
+    agent_name: Tit, Tom
+    aliases:
+    - Goot, Arthur
+    - Good, Arthur
+    birthdate: 1853
+    deathdate: 1928
+    gutenberg_agent_id: '47355'
+    url: http://www.gutenberg.org/2009/agents/47355
+description: ''
+gutenberg_issued: '2016-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53393'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physics -- Experiments'
+- !lcc 'QC'
+- !lcsh 'Scientific recreations'
+- GITenberg
+title: 'Natuurkunde in de Huiskamer: ongeveer 100 proeven met huishoudelijke voorwerpen.'
+url: http://www.gutenberg.org/ebooks/53393
